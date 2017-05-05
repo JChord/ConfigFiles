@@ -1,2 +1,8 @@
 # ConfigFiles
-Vim configuration
+My Vim configuration
+
+**Quick install
+
+install::
+
+    $ vim +BundleInstall +qall
